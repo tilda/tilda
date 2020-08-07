@@ -1,5 +1,7 @@
 # Hi! I'm tilda.
-I try to be a full stack dev sometimes. [More info about me!](https://tda.wtf)
+I'm a full stack developer (or at least trying to be one). My main programming language is Python but I also happen to play with JavaScript quite a bit.
+
+My main pronouns are **he/him** but you can also use **they/them**.
 
 Currently listening to:
 
