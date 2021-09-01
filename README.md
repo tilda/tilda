@@ -1,5 +1,5 @@
-# [hi](https://squiggle.cf)
+# [hi!](https://squiggle.cf)
 
-i legitimately don't know what to put here someone give me ideas
+i'm tilda, and i'm a developer. somewhat. (i'm very burnt out)
 
-if you need to contact me: tda [at] stairway.cf. (please note i am not available for hiring and will not respond to such messages)
+if you need to contact me you can find all contact methods on my website. i am very responsive to any messages i get, usually.
