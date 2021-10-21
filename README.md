@@ -8,4 +8,4 @@ i'm a pretty young person who has been fascinated with computers and how they wo
 
 # contact
 
-you can find all my contact methods on [my contact page](https://squiggle.cf/contact). i will make a best effort to respond to anything i receive (as long as it isn't spam)!
+you can find all my contact methods on [my contact page](https://squiggly.zone/contact). i will make a best effort to respond to anything i receive (as long as it isn't spam)!
