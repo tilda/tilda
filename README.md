@@ -5,5 +5,7 @@ aspiring programmer who got burnt out a while back. my favorite technologies to 
 # contact
 
 📧 tda `(at)` stairway.cf
+
 💬 tilda#6729
+
 other methods are listed [here](https://squiggly.zone/contact)
