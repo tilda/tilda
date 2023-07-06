@@ -5,8 +5,8 @@ aspiring programmer who got burnt out a while back. my favorite technologies to 
 **not to be confused with [the other people who have names adjacent to my internet identity](https://github.com/search?q=tilda&type=users)!** i don't manage anything big
 # contact
 
-📧 tda `(at)` stairway.cf
+📧 me `(at)` til `(dot)` pm
 
-💬 tilda#6729
+💬 `til.pm`
 
 other methods are listed [here](https://til.pm/contact)
