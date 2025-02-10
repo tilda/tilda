@@ -1,3 +1,3 @@
-one of the programmers in the world
+i dont do much anymore
 
-feel free to contact: `me (at) til (dot) pm` or see my [website](https://til.pm/contact)
+if you need me: `me` at `til.pm`
